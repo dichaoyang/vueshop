@@ -1,25 +1,29 @@
-vueshop
+# vueshop
 
-Project setup
+## Project setup
+```
+npm install
+```
 
-    npm install
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-Compiles and hot-reloads for development
+### Compiles and minifies for production
+```
+npm run build
+```
 
-    npm run serve
+### Run your tests
+```
+npm run test
+```
 
-Compiles and minifies for production
+### Lints and fixes files
+```
+npm run lint
+```
 
-    npm run build
-
-Run your tests
-
-    npm run test
-
-Lints and fixes files
-
-    npm run lint
-
-Customize configuration
-
-See Configuration Reference.
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
